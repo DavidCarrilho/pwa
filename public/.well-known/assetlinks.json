@@ -2,24 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "davdev.twa.app",
+    "package_name": "com.davdev.twa",
     "sha256_cert_fingerprints":
-    ["A8:74:92:7E:B4:62:49:22:34:A3:E7:71:B3:59:6C:1F:B5:26:6F:15:1F:E1:37:CA:11:1E:28:CD:6B:CC:B0:95"]
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "web",
-    "site": "https://pwatwaapp.firebaseapp.com/"
-  }
-},
-{
-  "relation": ["delegate_permission/common.get_login_creds"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "davdev.twa.app",
-    "sha256_cert_fingerprints":
-    ["A8:74:92:7E:B4:62:49:22:34:A3:E7:71:B3:59:6C:1F:B5:26:6F:15:1F:E1:37:CA:11:1E:28:CD:6B:CC:B0:95"]
+    ["AC:2F:C8:F8:2B:15:6A:E5:FE:66:97:A8:90:6F:D4:8B:29:E2:5C:19:08:D5:36:24:2A:6A:D3:63:12:DB:55:BC"]
   }
 }]
